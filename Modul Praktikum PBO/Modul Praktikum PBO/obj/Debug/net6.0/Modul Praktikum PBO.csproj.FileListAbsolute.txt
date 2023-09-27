@@ -1,0 +1,14 @@
+C:\Users\ACER\source\repos\Modul Praktikum PBO\Modul Praktikum PBO\obj\Debug\net6.0\Modul Praktikum PBO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\Modul Praktikum PBO\Modul Praktikum PBO\obj\Debug\net6.0\Modul Praktikum PBO.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\Modul Praktikum PBO\Modul Praktikum PBO\obj\Debug\net6.0\Modul Praktikum PBO.AssemblyInfo.cs
+C:\Users\ACER\source\repos\Modul Praktikum PBO\Modul Praktikum PBO\obj\Debug\net6.0\Modul Praktikum PBO.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Modul Praktikum PBO\Modul Praktikum PBO\bin\Debug\net6.0\Modul Praktikum PBO.exe
+C:\Users\ACER\source\repos\Modul Praktikum PBO\Modul Praktikum PBO\bin\Debug\net6.0\Modul Praktikum PBO.deps.json
+C:\Users\ACER\source\repos\Modul Praktikum PBO\Modul Praktikum PBO\bin\Debug\net6.0\Modul Praktikum PBO.runtimeconfig.json
+C:\Users\ACER\source\repos\Modul Praktikum PBO\Modul Praktikum PBO\bin\Debug\net6.0\Modul Praktikum PBO.dll
+C:\Users\ACER\source\repos\Modul Praktikum PBO\Modul Praktikum PBO\bin\Debug\net6.0\Modul Praktikum PBO.pdb
+C:\Users\ACER\source\repos\Modul Praktikum PBO\Modul Praktikum PBO\obj\Debug\net6.0\Modul Praktikum PBO.dll
+C:\Users\ACER\source\repos\Modul Praktikum PBO\Modul Praktikum PBO\obj\Debug\net6.0\refint\Modul Praktikum PBO.dll
+C:\Users\ACER\source\repos\Modul Praktikum PBO\Modul Praktikum PBO\obj\Debug\net6.0\Modul Praktikum PBO.pdb
+C:\Users\ACER\source\repos\Modul Praktikum PBO\Modul Praktikum PBO\obj\Debug\net6.0\Modul Praktikum PBO.genruntimeconfig.cache
+C:\Users\ACER\source\repos\Modul Praktikum PBO\Modul Praktikum PBO\obj\Debug\net6.0\ref\Modul Praktikum PBO.dll
